@@ -1,0 +1,22 @@
+
+
+table {
+    border-collapse: collapse;
+    border: 1px solid gray;
+    width: 100%;
+
+}
+
+th  {
+    background-color: red;
+    color: white;
+}
+
+tbody{
+    background-color: whitesmoke;
+    color: black;
+}
+
+th,td {
+    padding: 4px;
+}

@@ -6,13 +6,16 @@
  
   ini_set('display_errors',1); //exibir os erros, caso ocorram
 
-  $arq = fopen("lista_alunos.csv","r"); //abre o arquivo para leitura
+  $arq = fopen("../lista_alunos.csv","r"); //abre o arquivo para leitura
 
 
    echo "<div style='display:block;height:500px;overflow: scroll'>";
    echo "<table class='table table-bordered table-striped'>";
    echo "<thead>
-             <tr><th>ID</th><th>Nome</th><th>E-mail</th><th>Opções</th></tr>
+             <tr><th><i class='fa fa-hashtag'></i> ID</th>
+             <th><i class='fa fa-user'></i> Nome</th>
+             <th><i class='fa fa-envelope'></i> E-mail</th>
+             <th class='text-center'><i class='fa fa-cog' ></i> Opções</th></tr>
          </thead>";
    echo "<tbody>";
    

@@ -61,7 +61,7 @@ Onde baixar as bibliotecas necessárias para desenvolvimento do site
 Inclusão de arquivos para conexão com o banco de dados
 ------------------------------------------------------
 
-* Agora no diretório configs encontra-se arquivos de configurações gerais do site.
+* Agora no diretório configs encontram-se arquivos de configurações gerais do site.
 
 Inclusão de uma camada para autenticação de usuários
 ----------------------------------------------------

@@ -1,7 +1,7 @@
 WS-Gestor Didático
 ==================
 
-![PHP](https://alexandrebbarbosa.files.wordpress.com/2016/01/php-elephant.png)
+![PHP](https://www.bryanmarshall.com/wp-content/uploads/php_mysql_logo.jpg)
 
 
 Site em PHP para aprendizagem da linguagem e prática em laboratório.
@@ -9,8 +9,9 @@ Site em PHP para aprendizagem da linguagem e prática em laboratório.
 
 **Autor:**  Wanderlei Silva do Carmo  <wander.silva@gmail.com>
 
->Com este projeto simples você aprenderá as bases do desenvolvimento web com PHP,HTML,CSS e Javascript, utilizando também as libs e frameworks populares como o FontAwesome, JQuery e Bootstrap.
-versão: 0.1-2705.2019
+>Com este projeto simples você aprenderá as bases do desenvolvimento web com PHP,HTML,CSS e Javascript, utilizando também as libs e frameworks populares como o FontAwesome, JQuery e Bootstrap.  
+
+**Versão:** 0.1-2705.2019
 
 Requisitos mínimos:
 ------------------

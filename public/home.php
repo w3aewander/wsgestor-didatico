@@ -63,30 +63,30 @@
             <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
         </ol>
-        <div class="carousel-inner">
+        <div class="carousel-inner h-120">
             <div class="carousel-item active">
-                <img class="d-block w-100" src="img/foto1.jpeg" alt="First slide">
+                <img class="w-100" src="assets/img/foto1.jpeg" alt="First slide">
                 <div class="carousel-caption d-none d-block">
                     <h5>O titulo do slide 1</h5>
                     <p>Este é o título do slide 1</p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="d-block w-100" src="img/foto2.jpeg" alt="Second slide">
+                <img class="w-100" src="assets/img/foto2.jpeg" alt="Second slide">
                 <div class="carousel-caption d-none d-block">
                     <h5>O titulo do slide 2</h5>
                     <p>Este é o título do slide 2</p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="d-block w-100" src="img/foto3.jpeg" alt="Third slide">
+                <img class="w-100" src="assets/img/foto3.jpeg" alt="Third slide">
                 <div class="carousel-caption d-none d-block">
                     <h5>O titulo do slide 3</h5>
                     <p>Este é o título do slide 3</p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="d-block w-100" src="img/foto4.jpeg" alt="Third slide">
+                <img class="w-100" src="assets/img/foto4.jpeg" alt="Third slide">
                 <div class="carousel-caption d-none d-block">
                     <h5>O titulo do slide 4</h5>
                     <p>Este é o título do slide 4</p>

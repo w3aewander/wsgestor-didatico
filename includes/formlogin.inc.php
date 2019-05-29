@@ -1,5 +1,4 @@
 <form class="form" role="form" method="post" action="autenticar.php">
-
     <div class="card centralizado form-login ">
         <div class="card-heading bg-dark">
             <div class="card-title">
@@ -18,6 +17,4 @@
             <button type="submit" class="btn btn-block btn-secondary"><i class="fa fa-unlock"></i>    Login</button>
         </div>
     </div>
-
-
 </form>

@@ -31,11 +31,11 @@ Como instalar
 * No Linux, descompacte no diretório do servidor web Apache em /var/www
 * Deve-se configurar o servidor Web para que a pasta public deste projeto seja a pasta raiz o site.
 
-Alterações feitas nesta atualização
+Alterações realizadas nesta versão
 -----------------------------------
 Imagens agora ficam no diretório assets junto com os frameworks e libs de terceiros  
-A altura para exibição dos slides no carrossel agora estão com 120px. Para isso eu  
-criei uma classe css com o nome de **.h-120px**. Os arquivos **_css_** e **_js_** também estão  
+A altura para exibição dos slides no carrossel agora estão com 180px. Para isso eu  
+criei uma classe css com o nome de **.h-180px**. Os arquivos **_css_** e **_js_** também estão  
 no diretório **assets** para separar o que for de domínio público dos arquivos internos do sistema.  
 
 Onde baixar as bibliotecas necessárias para desenvolvimento do site
@@ -62,6 +62,7 @@ Inclusão de arquivos para conexão com o banco de dados
 ------------------------------------------------------
 
 * Agora no diretório configs encontram-se arquivos de configurações gerais do site.
+* Um arquivo de configuração **config.ini** foi criado para configuração de acesso ao banco de dados
 
 Inclusão de uma camada para autenticação de usuários
 ----------------------------------------------------

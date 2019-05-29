@@ -3,20 +3,21 @@
 session_start();
 
 require __DIR__ . "/../configs/config.inc.php";
+require __DIR__ . "/../includes/conexao.inc.php";
 
 $usuario = isset($_POST["usuario"]) && !empty($_POST["usuario"]) ? $_POST["usuario"] : "";
 $senha = isset($_POST["senha"]) && !empty($_POST["senha"]) ? $_POST["senha"] : "";
 
 //$conn = mysqli_connect('127.0.0.1','root','12qwaszx','gestor');
-$conn = new PDO($dsn, $dbuser, $dbpass);
+//$conn = new PDO($dsn, $dbuser, $dbpass);
 
-if (!$conn) {
-    die("Erro:" . $conn->errorInfo());
-}
+// if (!$conn) {
+//     die("Erro:" . $conn->errorInfo());
+// }
 
 $sql = "select * from usuarios where login = ? or email = ? and senha = ?";
 
-$pstm = $conn->prepare($sql);
+$pstm = $pdo->prepare($sql);
 $pstm->bindParam(1, $usuario);
 $pstm->bindParam(2, $usuario);
 $pstm->bindParam(3, $senha);

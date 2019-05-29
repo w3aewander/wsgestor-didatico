@@ -11,7 +11,7 @@
 
     <link rel="stylesheet" href="assets/bootstrap-4.3.1-dist/css/bootstrap.min.css">
 
-    <link rel="stylesheet" type="text/css" href="css/default.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/default.css">
 
 </head>
 

@@ -63,7 +63,7 @@
             <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
         </ol>
-        <div class="carousel-inner h-120">
+        <div class="carousel-inner h-180">
             <div class="carousel-item active">
                 <img class="w-100" src="assets/img/foto1.jpeg" alt="First slide">
                 <div class="carousel-caption d-none d-block">

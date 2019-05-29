@@ -1,4 +1,5 @@
-#WS-Gestor Didático
+WS-Gestor Didático
+==================
 
 ![PHP](https://alexandrebbarbosa.files.wordpress.com/2016/01/php-elephant.png)
 
@@ -8,21 +9,25 @@
 >Com este projeto simples você aprenderá as bases do desenvolvimento web com PHP,HTML,CSS e Javascript, utilizando também as libs e frameworks populares como o FontAwesome, JQuery e Bootstrap.
 versão: 0.1-2705.2019
 
-######Requisitos mínimos:
+Requisitos mínimos:
+------------------
 
 php-5.6.37 ou superior
 Bootstrap-4.3.1
 JQuery-4.3.1
 FontAwesome-5.x
 
-###Como instalar
+Como instalar
+-------------
+
 * Baixe os arquivos clicando no botão **_Clone ou Download_** neste repositório
 * No MS-Windows, Descompacte o arquivo na raiz de seu servidor Web
   + Se estiver usando o **__xampp__** ou o **__wamp__** descompacte no diretorio htdocs ou www da instalação respectivamente dos webcontainers informados. Geralmente c:\xampp\htdocs ou c:\wamp\www.
 * No Linux, descompacte no diretório do servidor web Apache em /var/www
 
 
-###Alterações feitas nesta atualização
+Alterações feitas nesta atualização
+-----------------------------------
 Imagens agora ficam no diretório assets junto com os frameworks e libs de terceiros  
 A altura para exibição dos slides no carrossel agora estão com 120px. Para isso eu  
 criei uma classe css com o nome de **.h-120px**. Os arquivos **_css_** e **_js_** também estão  

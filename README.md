@@ -77,4 +77,12 @@ Inclusão de uma camada para autenticação de usuários
 >Este projeto está em constante evolução e é para uso didático apenas e não deverá ser utilizado em um ambiente comercial até sua versão de produção definitiva. Todo o conteúdo poderá ser atualizado sem a prévia informação por parte do autor.
 
 
+Inclusão do script para listagem de usuarios
+--------------------------------------------
+
+* Foi criado o script **includes/listar_usuarios.php** para listagem de usuários cadastrados na tabela **usuarios**.
+
+
+
+
 

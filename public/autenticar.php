@@ -41,4 +41,4 @@ if ($row = $pstm->fetch(PDO::FETCH_OBJ)) {
   require __DIR__ . "/../includes/acesso_negado.inc.php";
 
 }
-
+$pstm = null;

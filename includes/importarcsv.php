@@ -4,8 +4,6 @@
   * separados por um delimitador (;)
   */
  
-  ini_set('display_errors',1); //exibir os erros, caso ocorram
-
   $arq = fopen("../lista_alunos.csv","r"); //abre o arquivo para leitura
 
 

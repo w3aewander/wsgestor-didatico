@@ -36,7 +36,10 @@ A altura para exibição dos slides no carrossel agora estão com 120px. Para is
 criei uma classe css com o nome de **.h-120px**. Os arquivos **_css_** e **_js_** também estão  
 no diretório **assets** para separar o que for de domínio público dos arquivos internos do sistema.  
 
-###Onde baixar as bibliotecas necessárias para desenvolvimento do site
+Onde baixar as bibliotecas necessárias para desenvolvimento do site
+-----------------------------------------------------------
+
+
 [FontAwesome](https://use.fontawesome.com/releases/v5.8.2/fontawesome-free-5.8.2-web.zip)
 
 

@@ -38,10 +38,20 @@ no diretório **assets** para separar o que for de domínio público dos arquivo
 
 ###Onde baixar as bibliotecas necessárias para desenvolvimento do site
 [FontAwesome](https://use.fontawesome.com/releases/v5.8.2/fontawesome-free-5.8.2-web.zip)
+
+
 [Bootstrap](https://github.com/twbs/bootstrap/releases/download/v4.3.1/bootstrap-4.3.1-dist.zip)
+
+
 [JQuery](https://code.jquery.com/jquery-3.4.1.min.js)
+
+
 [MySQL](https://dev.mysql.com/downloads/windows/)
+
+
 [Mysql Workbench](https://dev.mysql.com/downloads/workbench/)
+
+
 
 Inclusão de arquivos para conexão com o banco de dados
 ------------------------------------------------------

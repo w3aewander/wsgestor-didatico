@@ -15,10 +15,11 @@ versão: 0.1-2705.2019
 Requisitos mínimos:
 ------------------
 
-php-5.6.37 ou superior  
+PHP-5.6.37 ou superior  
 Bootstrap-4.3.1  
 JQuery-4.3.1  
 FontAwesome-5.x  
+
 
 Como instalar
 -------------

@@ -28,7 +28,7 @@ Como instalar
 * No MS-Windows, Descompacte o arquivo na raiz de seu servidor Web
   + Se estiver usando o **__xampp__** ou o **__wamp__** descompacte no diretorio htdocs ou www da instalação respectivamente dos webcontainers informados. Geralmente c:\xampp\htdocs ou c:\wamp\www.
 * No Linux, descompacte no diretório do servidor web Apache em /var/www
-
+* Deve-se configurar o servidor Web para que a pasta public deste projeto seja a pasta raiz o site.
 
 Alterações feitas nesta atualização
 -----------------------------------

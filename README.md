@@ -33,6 +33,7 @@ Como instalar
 
 Alterações realizadas nesta versão
 -----------------------------------
+
 Imagens agora ficam no diretório assets junto com os frameworks e libs de terceiros  
 A altura para exibição dos slides no carrossel agora estão com 180px. Para isso eu  
 criei uma classe css com o nome de **.h-180px**. Os arquivos **_css_** e **_js_** também estão  
@@ -84,6 +85,24 @@ Inclusão do script para listagem de usuarios
 --------------------------------------------
 
 * Foi criado o script **includes/listar_usuarios.php** para listagem de usuários cadastrados na tabela **usuarios**.
+
+
+Inclusão de foto no cadastro de usuário
+---------------------------------------
+
+* Nesta versão é possível incluir fotos no cadastro de usuário
+
+1. Deve-se alterar a estrutura da tabela usuários para receber a foto. A foto é gravada em codificação base64. 
+2. Para adicionar uma nova coluna execute o seguinte script sql na ferramenta de administração do sgbd:  
+
+  alter table gestor.usuarios add column foto medumtext
+  
+
+>Campo ou coluna senha agora pode receber senha criptografa. Para tanto foi modificado a estrutura do campo para suportar até 255 caracteres.
+>Execute o seguinte script para aumentar o tamanho do campo senha:
+
+>alter table gestor.usuarios modify senha varchar(255)
+
 
 
 

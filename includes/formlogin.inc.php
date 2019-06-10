@@ -14,7 +14,9 @@
 
         </div>
         <div class="card-footing text-center">
-            <button type="submit" class="btn btn-block btn-secondary"><i class="fa fa-unlock"></i>    Login</button>
+            <button type="submit" class="btn btn-sm btn-secondary"><i class="fa fa-unlock"></i>   Login</button>
+            <button type="button" class="btn btn-sm btn-secondary" onclick="loginFB();"><i class="fa fa-facebook"></i>  Facebook</button>
+            <button type="button" class="btn btn-sm btn-secondary"><i class="fa fa-google"></i>  Google</button>
         </div>
     </div>
 </form>

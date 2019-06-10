@@ -37,3 +37,22 @@ body {
 .h-180{
     height: 180px;
 }
+
+.bt-fab {
+   position: absolute;
+   display: block;
+   width: 50px;
+   height: 50px;
+   right: 40px;
+   bottom: 60px;
+   color: white;
+   border-radius: 50%;
+   cursor: pointer;
+   z-index: 100;
+}
+.bt-fab:hover{
+    border: 1px solid 
+}
+.bt-fab:active{
+    border: 4px inset 
+}
